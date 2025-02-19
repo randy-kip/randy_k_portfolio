@@ -137,7 +137,7 @@ const experiences = [
     title: "Junior IT Officer",
     company_name: "KeNHA (Kenya National Highways Authority)",
     icon: kenha,  // Replace with actual icon reference
-    iconBg: "#FFFFFF",
+    iconBg: "#383E56",
     date: "May 2022 - Aug 2022",
     points: [
       "Configured and optimized software solutions across multiple engineering departments, enhancing workflow efficiency.",
