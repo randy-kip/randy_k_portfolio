@@ -2,6 +2,7 @@ import {
   mobile,
   backend,
   creator,
+  data,
   web,
   javascript,
   typescript,
@@ -42,19 +43,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
+    title: "Data Analyst & Visualization Wiz",
+    icon: data,
   },
   {
     title: "Backend Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Quantum Computing Enthusiast",
     icon: creator,
   },
 ];
