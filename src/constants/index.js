@@ -24,6 +24,10 @@ import {
   jobit,
   tripguide,
   threejs,
+  ergo,
+  italanta,
+  kenha,
+  msafiri,
 } from "../assets";
 
 export const navLinks = [
@@ -119,7 +123,7 @@ const experiences = [
   {
     title: "IT Intern & Medical Researcher",
     company_name: "Daktari Msafiri",
-    icon: daktariMsafiri,  // Replace with actual icon reference
+    icon: msafiri,  // Replace with actual icon reference
     iconBg: "#E6DEDD",
     date: "Jul 2019 - Aug 2019",
     points: [
@@ -133,7 +137,7 @@ const experiences = [
     title: "Junior IT Officer",
     company_name: "KeNHA (Kenya National Highways Authority)",
     icon: kenha,  // Replace with actual icon reference
-    iconBg: "#383E56",
+    iconBg: "#FFFFFF",
     date: "May 2022 - Aug 2022",
     points: [
       "Configured and optimized software solutions across multiple engineering departments, enhancing workflow efficiency.",
@@ -160,8 +164,8 @@ const experiences = [
   {
     title: "Junior Software Developer",
     company_name: "Ergo Quantum",
-    icon: ergoQuantum,  // Replace with actual icon reference
-    iconBg: "#383E56",
+    icon: ergo,  // Replace with actual icon reference
+    iconBg: "#FFFFFF",
     date: "April 2024 - Oct 2024",
     points: [
       "Designed and developed an interactive persistent homology visualization tool, enabling users to dynamically explore topological features.",
