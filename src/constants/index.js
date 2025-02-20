@@ -16,6 +16,11 @@ import {
   git,
   figma,
   docker,
+  azure,
+  postgres,
+  python,
+  rails,
+  jupyter,
   meta,
   starbucks,
   tesla,
@@ -78,44 +83,40 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Python",
+    icon: python,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Ruby on Rails",
+    icon: rails,
+  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
+  {
+    name: "Jupyter",
+    icon: jupyter,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "MongoDB",
-    icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
+    name: "PostgresSQL",
+    icon: postgres,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
+    name: "Azure",
+    icon: azure,
   },
 ];
 
@@ -123,7 +124,7 @@ const experiences = [
   {
     title: "IT Intern & Medical Researcher",
     company_name: "Daktari Msafiri",
-    icon: msafiri,  // Replace with actual icon reference
+    icon: msafiri,
     iconBg: "#E6DEDD",
     date: "Jul 2019 - Aug 2019",
     points: [
@@ -136,7 +137,7 @@ const experiences = [
   {
     title: "Junior IT Officer",
     company_name: "KeNHA (Kenya National Highways Authority)",
-    icon: kenha,  // Replace with actual icon reference
+    icon: kenha,
     iconBg: "#383E56",
     date: "May 2022 - Aug 2022",
     points: [
@@ -150,7 +151,7 @@ const experiences = [
   {
     title: "Software Engineer",
     company_name: "iTalanta",
-    icon: italanta,  // Replace with actual icon reference
+    icon: italanta,
     iconBg: "#E6DEDD",
     date: "Aug 2023 - Jan 2024",
     points: [
@@ -164,7 +165,7 @@ const experiences = [
   {
     title: "Junior Software Developer",
     company_name: "Ergo Quantum",
-    icon: ergo,  // Replace with actual icon reference
+    icon: ergo,
     iconBg: "#FFFFFF",
     date: "April 2024 - Oct 2024",
     points: [
