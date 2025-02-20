@@ -184,29 +184,38 @@ const experiences = [
 ];
 
 const testimonials = [
+  // {
+  //   testimonial:
+  //     "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+  //   name: "Sara Lee",
+  //   designation: "CFO",
+  //   company: "Acme Co",
+  //   image: "https://randomuser.me/api/portraits/women/4.jpg",
+  // },
+  // {
+  //   testimonial:
+  //     "I've never met a web developer who truly cares about their clients' success like Rick does.",
+  //   name: "Chris Brown",
+  //   designation: "COO",
+  //   company: "DEF Corp",
+  //   image: "https://randomuser.me/api/portraits/men/5.jpg",
+  // },
+  // {
+  //   testimonial:
+  //     "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+  //   name: "Lisa Wang",
+  //   designation: "CTO",
+  //   company: "456 Enterprises",
+  //   image: "https://randomuser.me/api/portraits/women/6.jpg",
+  // },
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Randy is a remarkably proficient Full Stack Engineer, with an impressive array of technical skills that set him apart in the field. His ability to navigate the intricate world of coding and web development is truly commendable.",
+    name: "Kevin Kimutai",
+    designation: "IT Audit Associate at KPMG East Africa | Azure AI Engineer",
+    company: "KPMG East Africa",
+    image: "https://media.licdn.com/dms/image/v2/D4D03AQHjsjqf39TfjA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695304622096?e=1745452800&v=beta&t=dwOGwyJv7EG8oE161Vn6WaP5kU1eOwPRQzgA-_AMFOE",
+    linkedin: "https://www.linkedin.com/in/kevinkimutai/",
   },
 ];
 
