@@ -231,6 +231,7 @@ const projects = [
     ],
     image: nahla,
     source_code_link: "https://github.com/randy-kip/nahla-naturals",
+    live_website_link: "https://nahla-naturals.vercel.app/",
   },
   {
     name: "Auctioneers Web Platform",
@@ -252,6 +253,7 @@ const projects = [
     ],
     image: auctioneers,
     source_code_link: "https://github.com/sereyatiampati/Auctioneers-ReactJS-Client",
+    live_website_link: "https://auctioneers.vercel.app/",
   },
   {
     name: "Peperuka Local Vendors",
@@ -273,11 +275,12 @@ const projects = [
     ],
     image: peperuka,
     source_code_link: "https://github.com/randy-development-work/phase-4-peperuka-project-client",
+    live_website_link: "https://phase-4-peperuka-project-client.vercel.app/",
   },
   {
     name: "Destination Bliss",
     description:
-      "Interactive travel app that enables users to discover and bookmark destinations. Developed using FlutterFlow’s low-code platform, featuring dynamic search, filtering options, and smooth performance across devices for an enhanced travel discovery experience.",
+      "Interactive travel app that enables users to discover and bookmark destinations. Developed using FlutterFlow's low-code platform, featuring dynamic search, filtering options, and smooth performance across devices for an enhanced travel discovery experience.",
     tags: [
       {
         name: "flutterflow",
@@ -294,6 +297,7 @@ const projects = [
     ],
     image: bliss,
     source_code_link: "https://destination-bliss.flutterflow.app/",
+    live_website_link: "https://destination-bliss.flutterflow.app/",
   },
 ];
 
