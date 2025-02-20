@@ -33,6 +33,10 @@ import {
   italanta,
   kenha,
   msafiri,
+  auctioneers,
+  bliss,
+  nahla,
+  peperuka,
 } from "../assets";
 
 export const navLinks = [
@@ -208,68 +212,90 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Nahla Naturals",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Fully responsive e-commerce website designed to showcase and sell natural products. Integrated Sanity CMS for dynamic content management and built an intuitive shopping experience with optimized performance and mobile responsiveness.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "sanitycms",
+        color: "green-text-gradient",
+      },
+      {
+        name: "ecommerce",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: nahla,
+    source_code_link: "https://github.com/randy-kip/nahla-naturals",
+  },
+  {
+    name: "Auctioneers Web Platform",
+    description:
+      "Dynamic auction website where users can bid in real-time while sellers set their desired prices. Built with a Ruby on Rails backend supporting complex business logic, real-time updates, and secure transactions, ensuring a seamless and intuitive user experience.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "rubyonrails",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "auction",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: auctioneers,
+    source_code_link: "https://github.com/sereyatiampati/Auctioneers-ReactJS-Client",
   },
   {
-    name: "Job IT",
+    name: "Peperuka Local Vendors",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Full-stack platform connecting local vendors with customers, promoting local commerce. Built with a Ruby on Rails backend and a ReactJS frontend, featuring vendor profiles, product catalogs, and secure transactions. Currently scaling to support additional urban areas.",
     tags: [
       {
-        name: "react",
+        name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "rubyonrails",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "ecommerce",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: peperuka,
+    source_code_link: "https://github.com/randy-development-work/phase-4-peperuka-project-client",
   },
   {
-    name: "Trip Guide",
+    name: "Destination Bliss",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Interactive travel app that enables users to discover and bookmark destinations. Developed using FlutterFlow’s low-code platform, featuring dynamic search, filtering options, and smooth performance across devices for an enhanced travel discovery experience.",
     tags: [
       {
-        name: "nextjs",
+        name: "flutterflow",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "travelapp",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "mobileapp",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: bliss,
+    source_code_link: "https://destination-bliss.flutterflow.app/",
   },
 ];
+
 
 export { services, technologies, experiences, testimonials, projects };

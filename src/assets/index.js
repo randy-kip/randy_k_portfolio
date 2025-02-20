@@ -40,6 +40,10 @@ import msafiri from "./company/msafiri.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import auctioneers from "./auctioneers.png";
+import bliss from "./bliss.png";
+import nahla from "./nahla.png";
+import peperuka from "./peperuka.png";
 
 export {
   logo,
@@ -80,4 +84,8 @@ export {
   italanta,
   kenha,
   msafiri,
+  auctioneers,
+  bliss,
+  nahla,
+  peperuka,
 };
