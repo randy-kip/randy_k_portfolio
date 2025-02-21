@@ -100,4 +100,4 @@ Feel free to fork the repository, open issues, or submit pull requests for impro
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/randy-kip/randy_k_portfolio/blob/main/LICENSE.md) file for details.
