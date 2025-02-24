@@ -21,7 +21,6 @@ const App = () => {
         </div>
       </div>
     </BrowserRouter>
-    // <h2>Yoooo</h2>
   );
 }
 
