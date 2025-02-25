@@ -50,6 +50,18 @@ const About = () => {
         I'm a versatile Full Stack Developer with expertise in JavaScript, Python, and Ruby, specializing in building scalable, high-performance web applications. Proficient in frameworks like React and Ruby on Rails, I thrive on creating intuitive user experiences and efficient backend systems. Passionate about quantum computing, data analytics, machine learning, and interactive visualizations, I enjoy transforming complex data into actionable insights. I'm about bridging the gap between complexity and simplicity, connecting raw data to meaningful outcomes. Allow me to Contribute to Your Vision! 🚀
       </motion.p>
 
+      {/* CV Button */}
+      <div className="mt-6">
+        <a
+          href="src\assets\resume\Randy_Kipkurui_Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block px-8 py-3 bg-[#915EFF] text-white text-lg font-semibold rounded-lg hover:bg-purple-700 transition-all"
+        >
+          View My CV
+        </a>
+      </div>
+
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />

@@ -21,29 +21,7 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I analyze Data <br className='sm:block hidden' />
             and develop Web Applications
-          </p>
-          <div className="fixed bottom-10 left-1/2 transform -translate-x-1/2 z-50">
-            {/* <a
-              href="/path_to_cv_file.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block px-8 py-3 bg-[#915EFF] text-white text-lg font-semibold rounded-lg hover:bg-purple-700 transition-all"
-            >
-              View My CV
-            </a> */}
-
-            {/* CV Button */}
-            <a
-              href= "../assets/resume/Randy_Kipkurui_Resume.pdf"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block mt-5 px-8 py-3 bg-[#915EFF] text-white text-lg font-semibold rounded-lg hover:bg-purple-700 transition-all"
-            >
-              View My CV
-            </a>
-          </div>
-          
-          
+          </p>         
         </div>
       </div>
 
