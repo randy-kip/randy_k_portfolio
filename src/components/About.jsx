@@ -53,7 +53,7 @@ const About = () => {
       {/* CV Button */}
       <div className="mt-6">
         <a
-          href="src\assets\resume\Randy_Kipkurui_Resume.pdf"
+          href="public\resume\Randy_Kipkurui_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block px-8 py-3 bg-[#915EFF] text-white text-lg font-semibold rounded-lg hover:bg-purple-700 transition-all"
