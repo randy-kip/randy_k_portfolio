@@ -55,7 +55,7 @@ const Navbar = () => {
             href="https://github.com/randy-kip"
             target="_blank"
             rel="noopener noreferrer"
-            className="p-2 rounded-full bg-[#915EFF] hover:bg-purple-700 transition-all"
+            className="p-2 rounded-full hover:bg-purple-700 transition-all"
           >
             <img src={github_icon} alt="GitHub" className="w-8 h-8 object-contain" />
           </a>
@@ -63,7 +63,7 @@ const Navbar = () => {
             href="https://www.linkedin.com/in/randy-kipkurui/"
             target="_blank"
             rel="noopener noreferrer"
-            className="p-2 rounded-full bg-[#915EFF] hover:bg-purple-700 transition-all"
+            className="p-2 rounded-full hover:bg-purple-700 transition-all"
           >
             <img src={linkedin} alt="LinkedIn" className="w-8 h-8 object-contain" />
           </a>
