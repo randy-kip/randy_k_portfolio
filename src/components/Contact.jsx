@@ -35,10 +35,6 @@ const Contact = () => {
       .send(
         import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
         import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
-        // 'service_xgqr1nh',
-        // 'template_5bbzb0h',
-        // process.env.REACT_APP_EMAILJS_SERVICE_ID,
-        // process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
         {
           from_name: form.name,
           to_name: "Randy Kipkurui",
@@ -47,8 +43,6 @@ const Contact = () => {
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
-        // 'LS9IHnXeHB-U21BwQ'
-        // process.env.REACT_APP_EMAILJS_PUBLIC_KEY
       )
       .then(
         () => {
