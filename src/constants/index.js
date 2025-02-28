@@ -98,14 +98,11 @@ const technologies = [
     name: "Ruby on Rails",
     icon: rails,
   },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
-  // {
-  //   name: "Tailwind CSS",
-  //   icon: tailwind,
-  // },
+
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
+  },
   {
     name: "Jupyter",
     icon: jupyter,
