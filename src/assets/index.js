@@ -9,6 +9,8 @@ import close from "./close.svg";
 import data from "./data.png";
 import github_icon from "./github-icon.png";
 import linkedin from "./linkedin.png";
+import kidaflow_website from "./kidaflow_website.png";
+import kidaflow_icon from "./company/kidaflow_icon.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -92,4 +94,6 @@ export {
   peperuka,
   github_icon,
   linkedin,
+  kidaflow_website,
+  kidaflow_icon,
 };

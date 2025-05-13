@@ -37,6 +37,7 @@ import {
   bliss,
   nahla,
   peperuka,
+  kidaflow_icon,
 } from "../assets";
 
 export const navLinks = [
@@ -176,6 +177,21 @@ const experiences = [
       "Developed and maintained dynamic Power BI dashboards to track performance metrics and pipeline results.",
       "Collaborated with cross-functional teams to troubleshoot and enhance data visualizations, ensuring accurate and actionable insights.",
       "Led the transition of data visualization workflows from Jupyter Notebooks to Power BI, increasing accessibility and scalability.",
+    ],
+  },
+  {
+    title: "Co-Founder",
+    company_name: "KiDaFlow Automations",
+    icon: kidaflow_icon,
+    // iconBg: "rgb(60, 51, 80)",
+    date: "March 2025 - Present",
+    points: [
+      "Design and implement AI-driven automation systems and high-converting lead generation strategies -->",
+      "This is to help businesses scale faster and operate more efficiently.",
+      "My core focus areas include:",
+      "  Building end-to-end automation workflows,", 
+      "  integrating AI tools into sales and operations processes,", 
+      "  & designing outbound systems that consistently drive qualified leads.",
     ],
   },
 ];
