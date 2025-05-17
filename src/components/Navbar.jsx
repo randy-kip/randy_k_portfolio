@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import { styles } from "../styles";
 import { navLinks } from "../constants";
-import { logo, menu, close, github_icon, linkedin, kidaflow } from "../assets";
+import { logo, menu, close, github_icon, linkedin, kidaflow_website } from "../assets";
 
 const Navbar = () => {
   const [active, setActive] = useState("");
@@ -73,7 +73,7 @@ const Navbar = () => {
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-purple-700 transition-all"
           >
-            <img src={kidaflow} alt="LinkedIn" className="w-8 h-8 object-contain" />
+            <img src={kidaflow_website} alt="LinkedIn" className="w-8 h-8 object-contain" />
           </a>
         </div>
 
