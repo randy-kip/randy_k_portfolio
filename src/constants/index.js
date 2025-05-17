@@ -182,6 +182,7 @@ const experiences = [
   {
     title: "Co-Founder",
     company_name: "KiDaFlow Automations",
+    company_link: "https://kidaflow-automation.webflow.io/",
     icon: kidaflow_icon,
     // iconBg: "rgb(60, 51, 80)",
     date: "March 2025 - Present",
@@ -227,7 +228,7 @@ const testimonials = [
     name: "Kevin Kimutai",
     designation: "IT Audit Associate at KPMG East Africa | Azure AI Engineer",
     company: "KPMG East Africa",
-    image: "https://media.licdn.com/dms/image/v2/D4D03AQHjsjqf39TfjA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695304622096?e=1745452800&v=beta&t=dwOGwyJv7EG8oE161Vn6WaP5kU1eOwPRQzgA-_AMFOE",
+    image: "https://media.licdn.com/dms/image/v2/D4D03AQHjsjqf39TfjA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695304622096?e=1752710400&v=beta&t=ggJ_TVG_srEcWIWbG6Kef5kCe5Quj-JqkmDGEWhCUCE",
     linkedin: "https://www.linkedin.com/in/kevinkimutai/",
   },
 ];
