@@ -68,7 +68,7 @@ const Navbar = () => {
             <img src={linkedin} alt="LinkedIn" className="w-8 h-8 object-contain" />
           </a>
           <a
-            href="https://kidaflow-automation.webflow.io/"
+            href="https://www.kidaflow.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-full hover:bg-purple-700 transition-all"
